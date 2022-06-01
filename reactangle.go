@@ -4,4 +4,3 @@ package golang_united_school_homework
 type Rectangle struct {
 	Height, Weight float64
 }
-
