@@ -1,5 +1,3 @@
-
-   
 package golang_united_school_homework
 
 // Rectangle must satisfy to Shape interface
